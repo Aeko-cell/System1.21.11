@@ -29,6 +29,7 @@ public final class ClickGui extends Screen {
 	private static final int SEARCH_BAR_HEIGHT = 14;
 	private static final int SEARCH_BAR_Y      = 6;
 	private static final Identifier BACKGROUND_IMAGE = Identifier.of("system", "images/ren.png");
+	private static final Identifier UMARU_IMAGE = Identifier.of("system", "images/umaru.png");
 	private static final int WINDOW_START_X      = 50;
 	private static final int WINDOW_OFFSET_X     = 250;
 	private static final int WINDOW_Y            = 50;
